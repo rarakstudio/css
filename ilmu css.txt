@@ -1,0 +1,10 @@
+
+
+cara membuat garis dengan css
+
+border-bottom : 1px solid #F2F2F2
+
+
+cara membuat sudut lengkung dengan css 
+
+http://www.ngeposta.com/2012/09/membuat-sudut-lengkung-rounded-corner.html

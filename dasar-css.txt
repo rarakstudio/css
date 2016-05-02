@@ -1,0 +1,34 @@
+http://www.1keydata.com/css-tutorial/de/position.php#z-index
+
+http://www.w3schools.com/css/css3_3dtransforms.asp
+
+http://www.tizag.com/cssT/text.php
+
+git remote add origin https://github.com/rarakstudio/tutor.git
+
+git clone origin https://github.com/rarakstudio/tutor
+
+
+==========================================================
+Tutorial update
+
+http://www.1keydata.com/css-tutorial/de/position.php#z-index
+
+http://www.w3schools.com/css/css3_3dtransforms.asp
+
+http://www.tizag.com/cssT/text.php
+
+==========================================================
+Cara Minimize dan Unminimazi
+
+http://unminify.com/
+
+http://csscompressor.com/
+
+https://cssminifier.com/
+
+==========================================================
+
+
+CLASS Active dan tidak active
+http://codepen.io/arjunamgain/pen/lGALt
